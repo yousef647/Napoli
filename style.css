@@ -1,0 +1,30 @@
+.container-fluid{
+    display: flex;
+}
+.card{
+    margin-right:15px ;
+
+}
+#man{
+    margin-top: 20px;
+}
+/* #napoli{
+    height:25rem ;
+    height:10% ;
+
+} */
+footer{
+    height: 200px;
+    text-align: center;
+}
+h3{
+    margin-top: 20px;
+    
+    
+}
+i{
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-right:4px ;
+}
